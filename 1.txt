@@ -1,4 +1,4 @@
 第一次写入信息
-slave的修改
+slave的修改 edit by master
 测试master的拉取
 edit by slave
